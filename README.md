@@ -4,6 +4,6 @@
 
 ### Simple stopwatch with laps function
 
-# [PLAY](https://s1000dev.github.io/timer/) 
+# [USE](https://s1000dev.github.io/timer/) 
 
 </div>
